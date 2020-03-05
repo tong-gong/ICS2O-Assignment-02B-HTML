@@ -1,0 +1,31 @@
+.myparagraph {
+  color: red;
+  padding: 1px;
+  text-align: left;
+  font-size: 20px;
+}
+.heading {
+  color: black;
+  text-align: center;
+  padding: 15px;
+  font-size: 50px;
+}
+.smallheading {
+  color: blue;
+  text-align: center;
+  font-size: 37px;
+  padding: 3px;
+}
+.body {
+  background-color: gray;
+}
+.image {
+  text-align: center;
+}
+.div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
